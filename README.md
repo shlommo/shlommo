@@ -6,7 +6,7 @@ I'm passionate Frontend Web developer from Kazakhstan 🇰🇿. I can deliver ex
 ### 🤝 Open source 
 [Node.js Website redesign](https://github.com/nodejs/nodejs.dev)
 
-![Github activity](https://streak-stats.demolab.com/?user=shlommo)
+[![@szhaqypbek's Holopin board](https://holopin.me/szhaqypbek)](https://holopin.io/@szhaqypbek)
 
 ### ⚙️ Technologies and tools that I know and use
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
