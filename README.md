@@ -1,8 +1,6 @@
 ### Hi there, I'm Sayan 👋
 I'm passionate Frontend Web developer from Kazakhstan 🇰🇿. I can deliver excellent services. Special attention is given to performance, usability, SEO-optimized codes.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shlommo&count_private=true&theme=great-gatsby&show_icons=true&bg_color=-30,8a3724,713c75&hide_border=true)
-
 ### 🤝 Open source 
 [Node.js Website redesign](https://github.com/nodejs/nodejs.dev)
 
